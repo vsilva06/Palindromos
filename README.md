@@ -71,7 +71,7 @@ Se mejoro la efectividad al comprobar si una palabra es palíndroma, por el hech
 Las pruebas dan a entender si el método funciona correctamente con los casos más sencillos y también con otros mas complejos. El uso de los test nos alerta de que algo no esta funcionando o se usa de forma errónea el método. 
 
 
-Repositorio: https://github.com/vsilva06/Palindromos.git
+
 
  
 
