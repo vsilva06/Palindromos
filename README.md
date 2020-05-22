@@ -63,11 +63,17 @@ input: La tele letal
 output: false
 
 Las pruebas que se hicieron para este método dejan a entender que solo se puede usar palabras simples (sin caracteres especiales, espaciados, mayúsculas, etc.) para hacer un buen uso de este.
+
 ¿Qué consideraciones se tomó en cuenta?
+
 En primer lugar, serian las palabras con mayúsculas, caracteres especiales, entre otros que podrían dificultar la comparación de la palabra. También se tomaría en cuenta los números.
+
 ¿Qué se mejoró?
+
 Se mejoro la efectividad al comprobar si una palabra es palíndroma, por el hecho de comprobar una a una la letra o número que se cambió con la original, por ejemplo: si la primera letra no coincide con la última, ya no sería palíndroma enviando la respuesta correspondiente y detendría el programa. también se creó un método en el cual se eliminan los caracteres especiales, espaciados y el intercambio de letras con acento, minúsculas con su letra correspondiente.
+
 ¿Qué rol juega las pruebas en mejorar su código?
+
 Las pruebas dan a entender si el método funciona correctamente con los casos más sencillos y también con otros mas complejos. El uso de los test nos alerta de que algo no esta funcionando o se usa de forma errónea el método. 
 
 
